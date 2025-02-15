@@ -32,31 +32,31 @@ db.close()
 
 ## 실행
 
-1. Clone repository
+**1. Clone repository**
 
 ```
 git clone https://github.com/AlpacaMale/pymysql
 ```
 
-2. Change working directory
+**2. Change working directory**
 
 ```
 cd pymysql
 ```
 
-3. Install dependency
+**3. Install dependency**
 
 ```
 pip install -r requirements.txt
 ```
 
-4. Write your env setup
+**4. Write your env setup**
 
 ```
 URL='https://jolse.com/category/toners-mists/1019/?page='
 ```
 
-5. Execute main.py
+**5. Execute main.py**
 
 ```
 python main.py
